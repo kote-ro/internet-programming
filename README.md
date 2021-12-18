@@ -8,5 +8,5 @@
 5. ajax-запросами
 
 ## Технологии
-> Backend: Java, Spring Boot, H2
-> Frontend: HTML/CSS, JavaScript, jQuery, Bootstrap, Thymeleaf
+- Backend: Java, Spring Boot, H2
+- Frontend: HTML/CSS, JavaScript, jQuery, Bootstrap, Thymeleaf
